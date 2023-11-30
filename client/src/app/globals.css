@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-zinc-100;
+}
+
+main {
+  @apply bg-zinc-100;
+  @apply shadow-inner;
+  @apply font-serif;
+}
